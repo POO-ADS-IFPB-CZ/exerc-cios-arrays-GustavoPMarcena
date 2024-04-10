@@ -22,6 +22,6 @@ public class Questao3 {
             if (notaAlunos >= media) notasAcima++;
             else notasAbaixo++;
         }
-        System.out.println("Notas acima da média: "+notasAcima+"\nNotas abaixo da média: "+notasAbaixo);
+        System.out.println("Media de notas da turma: "+media+"\nNotas acima da média: "+notasAcima+"\nNotas abaixo da média: "+notasAbaixo);
     }
 }
